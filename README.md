@@ -16,3 +16,6 @@ You can use `pcl_viewer` tool to visualize the result: `pcl_viewer pointcloud_fi
 
 Comparison before & after filtering ground(point cloud file is from kitti dataset):  
 ![](images/ground_filter.png)
+
+use `./voxel_gird`, and you can have:
+![](images/table_filter.png)
